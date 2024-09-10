@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 90,
-    "last_updated_time": "2024-09-10 08:45:50"
+    "last_updated_time": "2024-09-10 14:14:02"
   },
   "article_data": [
+    {
+      "title": "“死”字禁忌",
+      "created": "2024-09-10 20:47",
+      "link": "https://dujun.io/death-is-not-bad.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "惠州海之旅",
       "created": "2024-09-09 18:10",
@@ -216,13 +223,6 @@
       "link": "https://xiaoa.me/archives/coordinphoto.html",
       "author": "半日闲",
       "avatar": "https://xiaoa.me/logo.png"
-    },
-    {
-      "title": "极简界面内嵌B站视频",
-      "created": "2024-08-28 08:47",
-      "link": "https://dujun.io/embed-bilibili-videos-in-a-minimalist-interface.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "欢迎你，我亲爱的小公主！",
