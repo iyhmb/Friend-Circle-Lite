@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 90,
-    "last_updated_time": "2024-09-18 20:18:26"
+    "last_updated_time": "2024-09-19 02:13:19"
   },
   "article_data": [
     {
@@ -20,13 +20,6 @@
       "link": "https://www.80srz.com/guests.html/comment-page-1#comment-2016",
       "author": "荒野孤灯",
       "avatar": "https://www.80srz.com/logo.png"
-    },
-    {
-      "title": "今天空闲时间清理了部分无法打开的友链",
-      "created": "2024-09-18 17:16",
-      "link": "https://usj.cc/post/delete-some-links/",
-      "author": "优世界",
-      "avatar": "https://usj.cc/image/avatar.jpg"
     },
     {
       "title": "iOS 18 带来防晕车功能",
@@ -59,7 +52,7 @@
     {
       "title": "Hugo使用GitHub Action自动刷新多吉云CDN缓存",
       "created": "2024-09-16 22:48",
-      "link": "https://usj.cc/post/dogeyun-auto-refresh-cdn/",
+      "link": "https://usj.cc/20240916-auto-refresh-cdn/",
       "author": "优世界",
       "avatar": "https://usj.cc/image/avatar.jpg"
     },
@@ -367,7 +360,7 @@
     {
       "title": "迁移博客至hugo",
       "created": "2024-08-12 04:52",
-      "link": "https://usj.cc/post/migrate-to-hugo/",
+      "link": "https://usj.cc/20240811-typecho-to-hugo/",
       "author": "优世界",
       "avatar": "https://usj.cc/image/avatar.jpg"
     },
@@ -540,6 +533,13 @@
       "avatar": "https://blog.imsyy.top/favicon.ico"
     },
     {
+      "title": "win11右键菜单改回win10方法",
+      "created": "2024-05-19 21:21",
+      "link": "https://usj.cc/1299/",
+      "author": "优世界",
+      "avatar": "https://usj.cc/image/avatar.jpg"
+    },
+    {
       "title": "使用 acme.sh 生成泛域名 SSL 证书",
       "created": "2024-05-14 08:00",
       "link": "https://blog.imsyy.top/posts/2024/0514",
@@ -605,7 +605,7 @@
     {
       "title": "主机配置单",
       "created": "2024-04-05 20:39",
-      "link": "https://usj.cc/post/1287/",
+      "link": "https://usj.cc/1287/",
       "author": "优世界",
       "avatar": "https://usj.cc/image/avatar.jpg"
     },
@@ -633,7 +633,7 @@
     {
       "title": "一次点亮",
       "created": "2024-03-16 23:24",
-      "link": "https://usj.cc/post/1284/",
+      "link": "https://usj.cc/1284/",
       "author": "优世界",
       "avatar": "https://usj.cc/image/avatar.jpg"
     }
