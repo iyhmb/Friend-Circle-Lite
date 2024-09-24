@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 19,
-    "error_num": 5,
-    "article_num": 80,
-    "last_updated_time": "2024-09-24 20:19:22"
+    "active_num": 20,
+    "error_num": 4,
+    "article_num": 90,
+    "last_updated_time": "2024-09-25 02:13:34"
   },
   "article_data": [
+    {
+      "title": "为关于页面增加一个“足迹”功能",
+      "created": "2024-09-25 07:52",
+      "link": "https://xyzbz.cn/archives/1215/",
+      "author": "网友小宋",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "杰瑞干得!!",
+      "created": "2024-09-25 07:30",
+      "link": "https://zhou.ge/2024-09-24.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
     {
       "title": "浅谈我玩《原神》的感受",
       "created": "2024-09-25 03:18",
@@ -20,6 +34,13 @@
       "link": "https://www.80srz.com/guests.html/comment-page-1#comment-2032",
       "author": "荒野孤灯",
       "avatar": "https://www.80srz.com/logo.png"
+    },
+    {
+      "title": "完成一场行为艺术——耗时 21 天美团提现 20 元",
+      "created": "2024-09-24 09:27",
+      "link": "https://dujun.io/1870.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "六耳猕猴冒充孙悟空",
@@ -41,6 +62,13 @@
       "link": "https://www.80srz.com/posts/2104.html",
       "author": "荒野孤灯",
       "avatar": "https://www.80srz.com/logo.png"
+    },
+    {
+      "title": "屏幕出 BUG（物理）",
+      "created": "2024-09-23 02:34",
+      "link": "https://dujun.io/1869.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "烈日下，油茶林里的山间除草",
@@ -71,6 +99,20 @@
       "avatar": "https://www.80srz.com/logo.png"
     },
     {
+      "title": "奇迹数据（原软云）湖北高防云服务器（4 核 4G）得分 73.49",
+      "created": "2024-09-20 21:30",
+      "link": "https://dujun.io/ruan-cloud-ecs-4c4g5m-scored-seventy-three-point-four-nine.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "乱码导致 json_encode 失败的解决方法",
+      "created": "2024-09-20 04:41",
+      "link": "https://dujun.io/json-invalid-utf8-ignore.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
       "title": "微语（2024-9-19 17:57）- 荒野孤灯",
       "created": "2024-09-20 01:57",
       "link": "https://www.80srz.com/guests.html/comment-page-1#comment-2021",
@@ -90,6 +132,20 @@
       "link": "https://qq.md/post/53",
       "author": "叶开",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3555453835&s=100"
+    },
+    {
+      "title": "勿忘国耻缅怀先烈",
+      "created": "2024-09-18 17:18",
+      "link": "https://zhou.ge/2024-09-18.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "iOS 18 带来防晕车功能",
+      "created": "2024-09-18 07:37",
+      "link": "https://dujun.io/ios-18-brings-vehicle-motion-cues.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "九月半随缘记",
@@ -202,6 +258,13 @@
       "link": "https://dusays.com/746/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "又被怼",
+      "created": "2024-09-07 07:56",
+      "link": "https://zhou.ge/2024-09-06.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "给主题的分类目录加上图标",
@@ -351,6 +414,13 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d?s=32&r=G"
     },
     {
+      "title": "游山玩水？",
+      "created": "2024-08-11 07:50",
+      "link": "https://zhou.ge/2024-08-10.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
       "title": "给 Typecho 评论区适配 Cloudflare Turnstile",
       "created": "2024-08-11 06:12",
       "link": "https://shangjixin.com/archives/typecho-cloudflare-turnstile.html",
@@ -379,13 +449,6 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d?s=32&r=G"
     },
     {
-      "title": "二四年七月小结",
-      "created": "2024-08-07 04:51",
-      "link": "https://xyzbz.cn/archives/1209/",
-      "author": "网友小宋",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
       "title": "拾月的吃货朋友们",
       "created": "2024-08-04 05:23",
       "link": "https://www.skyue.com/24080321.html",
@@ -412,6 +475,13 @@
       "link": "https://shangjixin.com/archives/fake-u-disk-fix.html",
       "author": "尚寂新",
       "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
+    },
+    {
+      "title": "姑父，一路走好",
+      "created": "2024-07-15 07:56",
+      "link": "https://zhou.ge/2024-07-14.html",
+      "author": "忆往事",
+      "avatar": "https://zhou.ge/favicon.ico"
     },
     {
       "title": "一键脚本自建 Frp 内网穿透访问家里 NAS 和软路由",
