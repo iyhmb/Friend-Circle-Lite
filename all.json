@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 85,
-    "last_updated_time": "2024-10-03 20:19:13"
+    "last_updated_time": "2024-10-04 02:13:50"
   },
   "article_data": [
     {
@@ -34,6 +34,13 @@
       "link": "https://www.mmbkz.cn/4449977e.html",
       "author": "喵喵博客志",
       "avatar": "https://imgos.cn/2024/08/01/66aac7e5774ad.png"
+    },
+    {
+      "title": "多方式防止网站被镜像",
+      "created": "2024-10-03 00:00",
+      "link": "https://dusays.com/754/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "《新大头儿子和小头爸爸6：迷你大冒险》",
@@ -69,6 +76,13 @@
       "link": "https://dujun.io/1875.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "将 Debian11 升级到 Debian12",
+      "created": "2024-09-30 00:00",
+      "link": "https://dusays.com/753/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "iOS 18 实时语音留言是防骚扰、防漏接神器",
@@ -239,13 +253,6 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
-      "title": "腾飞 Webos 如 Win11 体验的私有云盘",
-      "created": "2024-09-18 00:00",
-      "link": "https://dusays.com/749/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
       "title": "MacOS Sequoia 网络问题",
       "created": "2024-09-17 17:42",
       "link": "https://veryjack.com/technique/macos_sequoia_network_issue/",
@@ -279,13 +286,6 @@
       "link": "https://immmmm.com/hi-follow/",
       "author": "木木木木木",
       "avatar": "https://immmmm.com/favicon.ico"
-    },
-    {
-      "title": "Navidrome 自托管的开源音乐服务器",
-      "created": "2024-09-15 00:00",
-      "link": "https://dusays.com/748/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "分类目录过多的时候控制显示数和更多下拉",
