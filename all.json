@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 85,
-    "last_updated_time": "2024-10-10 14:14:59"
+    "last_updated_time": "2024-10-10 20:19:05"
   },
   "article_data": [
     {
@@ -544,14 +544,14 @@
       "created": "2024-05-21 08:00",
       "link": "https://blog.imsyy.top/posts/2024/0521",
       "author": "無名小栈",
-      "avatar": "https://blog.imsyy.top/favicon.ico"
+      "avatar": "https://blog.imsyy.top/images/logo/logo.webp"
     },
     {
       "title": "使用 acme.sh 生成泛域名 SSL 证书",
       "created": "2024-05-14 08:00",
       "link": "https://blog.imsyy.top/posts/2024/0514",
       "author": "無名小栈",
-      "avatar": "https://blog.imsyy.top/favicon.ico"
+      "avatar": "https://blog.imsyy.top/images/logo/logo.webp"
     },
     {
       "title": "新车到了",
@@ -572,14 +572,14 @@
       "created": "2024-04-10 08:00",
       "link": "https://blog.imsyy.top/posts/2024/0410",
       "author": "無名小栈",
-      "avatar": "https://blog.imsyy.top/favicon.ico"
+      "avatar": "https://blog.imsyy.top/images/logo/logo.webp"
     },
     {
       "title": "关于 DailyHotApi 的重构",
       "created": "2024-04-08 08:00",
       "link": "https://blog.imsyy.top/posts/2024/0408",
       "author": "無名小栈",
-      "avatar": "https://blog.imsyy.top/favicon.ico"
+      "avatar": "https://blog.imsyy.top/images/logo/logo.webp"
     },
     {
       "title": "清明踏青",
@@ -600,7 +600,7 @@
       "created": "2024-03-21 00:20",
       "link": "https://blog.imsyy.top/posts/2024/0320",
       "author": "無名小栈",
-      "avatar": "https://blog.imsyy.top/favicon.ico"
+      "avatar": "https://blog.imsyy.top/images/logo/logo.webp"
     }
   ]
 }
