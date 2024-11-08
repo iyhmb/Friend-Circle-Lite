@@ -4,9 +4,23 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 75,
-    "last_updated_time": "2024-11-08 08:48:49"
+    "last_updated_time": "2024-11-08 14:15:49"
   },
   "article_data": [
+    {
+      "title": "华为云通用计算型（2 核 4G）得分 149.43",
+      "created": "2024-11-08 21:00",
+      "link": "https://dujun.io/huaweicloud-ecs-s7-2c4g-scored-one-hundred-forty-nine-point-four-three.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云通用入门型（2 核 2G）得分 104.32",
+      "created": "2024-11-08 18:49",
+      "link": "https://dujun.io/huaweicloud-ecs-t6-2c2g-scored-one-hundred-four-point-three-two.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "微语（2024-11-7 17:37）- 荒野孤灯",
       "created": "2024-11-08 01:37",
@@ -62,20 +76,6 @@
       "link": "https://www.80srz.com/posts/2227.html",
       "author": "荒野孤灯",
       "avatar": "https://www.80srz.com/logo.png"
-    },
-    {
-      "title": "华为云Flexus云服务器X实例（12 核 24G）得分 145.77",
-      "created": "2024-11-05 19:44",
-      "link": "https://dujun.io/huaweicloud-flexus-x-12c24g-scored-one-hundred-forty-five-point-seven-seven.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云Flexus云服务器X实例（2 核 4G）得分 139.03",
-      "created": "2024-11-05 19:44",
-      "link": "https://dujun.io/huaweicloud-flexus-x-2c4g-scored-one-hundred-thirty-nine-point-zero-three.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "耳石症",
