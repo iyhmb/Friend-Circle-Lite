@@ -4,7 +4,7 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 75,
-    "last_updated_time": "2024-11-10 20:18:20"
+    "last_updated_time": "2024-11-11 02:13:42"
   },
   "article_data": [
     {
@@ -43,13 +43,6 @@
       "avatar": "https://www.80srz.com/logo.png"
     },
     {
-      "title": "手开 Oracle ARM 4C24G",
-      "created": "2024-11-10 06:21",
-      "link": "https://dujun.io/1930.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
       "title": "大慈岩悬空庙",
       "created": "2024-11-09 08:00",
       "link": "https://zishu.me/blog/246.html/",
@@ -64,27 +57,6 @@
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d?s=32&r=G"
     },
     {
-      "title": "华为云通用计算型（AMD 2 核 4G）得分 147.29",
-      "created": "2024-11-08 22:39",
-      "link": "https://dujun.io/huaweicloud-ecs-as7-2c4g-scored-one-hundred-forty-seven-point-two-nine.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云通用计算型（2 核 4G）得分 149.43",
-      "created": "2024-11-08 21:00",
-      "link": "https://dujun.io/huaweicloud-ecs-s7-2c4g-scored-one-hundred-forty-nine-point-four-three.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云通用入门型（2 核 2G）得分 104.32",
-      "created": "2024-11-08 18:49",
-      "link": "https://dujun.io/huaweicloud-ecs-t6-2c2g-scored-one-hundred-four-point-three-two.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
       "title": "微语（2024-11-7 17:37）- 荒野孤灯",
       "created": "2024-11-08 01:37",
       "link": "https://www.80srz.com/guests.html/comment-page-1#comment-2194",
@@ -97,13 +69,6 @@
       "link": "https://zishu.me/blog/weekly-75.html/",
       "author": "子舒的博客",
       "avatar": "https://imgurl.zishu.me/favicon.ico"
-    },
-    {
-      "title": "华为云鲲鹏内存优化型（8 核 64G）得分 139.60",
-      "created": "2024-11-06 19:22",
-      "link": "https://dujun.io/huaweicloud-ecs-km2-8c64g-scored-one-hundred-thirty-nine-point-six-zero.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "我也来自省一下《独立博客自省问卷 15 题》",
@@ -209,6 +174,13 @@
       "link": "https://dusays.com/763/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "给电脑换了新主板，一次战未来的升级",
+      "created": "2024-10-28 06:07",
+      "link": "https://shangjixin.com/archives/motherboard-upgrade-to-b760.html",
+      "author": "尚寂新",
+      "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
     },
     {
       "title": "推荐 10 个 Linux 下的防病毒软件",
@@ -335,6 +307,13 @@
       "link": "https://t-t.live/archives/41JZLOQX",
       "author": "团团生活志",
       "avatar": "https://img.t-t.live/img/tx.png"
+    },
+    {
+      "title": "给评论框加上Github登录验证，提高评论提交门槛",
+      "created": "2024-10-10 05:26",
+      "link": "https://shangjixin.com/archives/commentbox-github-oauth.html",
+      "author": "尚寂新",
+      "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
     },
     {
       "title": "Elasticsearch映射",
@@ -496,6 +475,27 @@
       "link": "https://zhou.ge/2024-08-10.html",
       "author": "忆往事",
       "avatar": "https://zhou.ge/favicon.ico"
+    },
+    {
+      "title": "给 Typecho 评论区适配 Cloudflare Turnstile",
+      "created": "2024-08-11 06:12",
+      "link": "https://shangjixin.com/archives/typecho-cloudflare-turnstile.html",
+      "author": "尚寂新",
+      "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
+    },
+    {
+      "title": "记一次通过量产工具修复虚标缩水U盘",
+      "created": "2024-07-27 04:02",
+      "link": "https://shangjixin.com/archives/fake-u-disk-fix.html",
+      "author": "尚寂新",
+      "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
+    },
+    {
+      "title": "利用 onerror 事件使 Gravatar 在源不可用时自动切换头像源",
+      "created": "2024-07-08 06:00",
+      "link": "https://shangjixin.com/archives/avatar-onerror-event.html",
+      "author": "尚寂新",
+      "avatar": "https://shangjixin.com/usr/themes/JiTheme/resource/avatar.jpg"
     },
     {
       "title": "皇马是冠军！",
