@@ -4,9 +4,30 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 80,
-    "last_updated_time": "2024-11-12 08:48:27"
+    "last_updated_time": "2024-11-12 14:15:38"
   },
   "article_data": [
+    {
+      "title": "华为云通用计算增强型（裸金属 128 核 256G）得分 149.71",
+      "created": "2024-11-12 18:35",
+      "link": "https://dujun.io/huaweicloud-ecs-c7h-128c256g-scored-one-hundred-forty-nine-point-seven-one.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云通用计算增强型（AMD 2 核 4G）得分 160.07",
+      "created": "2024-11-12 18:35",
+      "link": "https://dujun.io/huaweicloud-ecs-ac8-2c4g-scored-one-hundred-sixty-point-zero-seven.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云通用计算增强型（2 核 4G）得分 127.13",
+      "created": "2024-11-12 18:35",
+      "link": "https://dujun.io/huaweicloud-ecs-c7-2c4g-scored-one-hundred-twenty-seven-point-one-three.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "Oracle Cloud VM.Standard.A1.Flex（ARM 4 核 24G）得分 109.14",
       "created": "2024-11-12 16:05",
@@ -22,7 +43,7 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
-      "title": "Oracle Arm 安装 Win11 中文版",
+      "title": "Oracle ARM 安装 Win11 中文版",
       "created": "2024-11-12 00:52",
       "link": "https://dujun.io/installing-windows-11-chinese-edition-on-oracle-arm.html",
       "author": "杜郎俊赏",
@@ -41,13 +62,6 @@
       "link": "https://xiaoa.me/archives/nezha-expirationdate.html",
       "author": "半日闲",
       "avatar": "https://xiaoa.me/logo.png"
-    },
-    {
-      "title": "iOS Safari 回退导致 alert 失效",
-      "created": "2024-11-11 05:46",
-      "link": "https://dujun.io/navigating-back-breaks-alert-dialogs-on-ios-safari.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "Ryujinx 模拟器上手记录",
@@ -85,13 +99,6 @@
       "avatar": "https://www.80srz.com/logo.png"
     },
     {
-      "title": "手开 Oracle Arm 4C24G",
-      "created": "2024-11-10 06:21",
-      "link": "https://dujun.io/1929.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
       "title": "大慈岩悬空庙",
       "created": "2024-11-09 08:00",
       "link": "https://zishu.me/blog/246.html/",
@@ -104,13 +111,6 @@
       "link": "https://www.skyue.com/24110823.html",
       "author": "拾月",
       "avatar": "https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d?s=32&r=G"
-    },
-    {
-      "title": "华为云通用计算型（AMD 2 核 4G）得分 147.29",
-      "created": "2024-11-08 22:39",
-      "link": "https://dujun.io/huaweicloud-ecs-as7-2c4g-scored-one-hundred-forty-seven-point-two-nine.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "微语（2024-11-7 17:37）- 荒野孤灯",
