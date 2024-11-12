@@ -4,7 +4,7 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 80,
-    "last_updated_time": "2024-11-12 14:15:38"
+    "last_updated_time": "2024-11-12 20:20:51"
   },
   "article_data": [
     {
@@ -41,6 +41,13 @@
       "link": "https://xyzbz.cn/archives/1241/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "title": "Lobechat 使用 Webdav 同步数据的研究",
+      "created": "2024-11-12 08:00",
+      "link": "https://zishu.me/blog/247.html/",
+      "author": "子舒的博客",
+      "avatar": "https://imgurl.zishu.me/favicon.ico"
     },
     {
       "title": "Oracle ARM 安装 Win11 中文版",
@@ -195,13 +202,6 @@
       "link": "https://dusays.com/764/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
-      "title": "OpenAI 发布 ChatGPT Search 谷歌扩展",
-      "created": "2024-11-01 08:00",
-      "link": "https://zishu.me/blog/243.html/",
-      "author": "子舒的博客",
-      "avatar": "https://imgurl.zishu.me/favicon.ico"
     },
     {
       "title": "摩尔投票算法（Boyer–Moore majority vote algorithm）",
