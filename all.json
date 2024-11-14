@@ -4,9 +4,30 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 80,
-    "last_updated_time": "2024-11-14 20:21:19"
+    "last_updated_time": "2024-11-15 02:15:16"
   },
   "article_data": [
+    {
+      "title": "华为云超高I/O型（AMD 8 核 64G）得分 120.74",
+      "created": "2024-11-15 06:30",
+      "link": "https://dujun.io/huaweicloud-ecs-ai7-8c64g-scored-one-hundred-twenty-point-seven-four.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云超高I/O型（8 核 32G）得分 129.82",
+      "created": "2024-11-15 06:30",
+      "link": "https://dujun.io/huaweicloud-ecs-i7-8c32g-scored-one-hundred-twenty-nine-point-eight-two.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云磁盘增强型（4 核 16G）得分 128.79",
+      "created": "2024-11-15 06:30",
+      "link": "https://dujun.io/huaweicloud-ecs-d7-4c16g-scored-one-hundred-twenty-eight-point-seven-nine.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "奇趣周刊 - 第 76 期",
       "created": "2024-11-14 08:00",
@@ -36,30 +57,9 @@
       "avatar": "https://usj.cc/image/avatar.jpg"
     },
     {
-      "title": "华为云通用计算增强型（裸金属 128 核 256G）得分 149.71",
-      "created": "2024-11-12 18:35",
-      "link": "https://dujun.io/huaweicloud-ecs-c7h-128c256g-scored-one-hundred-forty-nine-point-seven-one.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
       "title": "华为云通用计算增强型（AMD 2 核 4G）得分 160.07",
       "created": "2024-11-12 18:35",
       "link": "https://dujun.io/huaweicloud-ecs-ac8-2c4g-scored-one-hundred-sixty-point-zero-seven.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云通用计算增强型（2 核 4G）得分 127.13",
-      "created": "2024-11-12 18:35",
-      "link": "https://dujun.io/huaweicloud-ecs-c7-2c4g-scored-one-hundred-twenty-seven-point-one-three.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "Oracle Cloud VM.Standard.A1.Flex（ARM 4 核 24G）得分 109.14",
-      "created": "2024-11-12 16:05",
-      "link": "https://dujun.io/oracle-cloud-vm-standard-a1-flex-4c24g-scored-one-hundred-nine-point-one-four.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
