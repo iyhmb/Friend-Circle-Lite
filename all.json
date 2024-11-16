@@ -4,9 +4,37 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 85,
-    "last_updated_time": "2024-11-16 08:52:08"
+    "last_updated_time": "2024-11-16 14:14:53"
   },
   "article_data": [
+    {
+      "title": "华为云高性能计算型（2 核 4G）得分 143.49",
+      "created": "2024-11-16 20:04",
+      "link": "https://dujun.io/huaweicloud-ecs-h3-2c4g-scored-one-hundred-forty-three-point-four-nine.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云 GPU 加速型（推理加速型 8 核 32G）得分 105.51",
+      "created": "2024-11-16 20:04",
+      "link": "https://dujun.io/huaweicloud-ecs-pi2-8c32g-scored-one-hundred-five-point-five-one.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云 GPU 加速型（计算加速型 8 核 64G）得分 102.70",
+      "created": "2024-11-16 20:03",
+      "link": "https://dujun.io/huaweicloud-ecs-p2s-8c64g-scored-one-hundred-two-point-seven-zero.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "华为云 GPU 加速型（图形加速型 8 核 32G）得分 104.83",
+      "created": "2024-11-16 20:03",
+      "link": "https://dujun.io/huaweicloud-ecs-g6v-8c32g-scored-one-hundred-four-point-eight-three.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "改头换面 —— iOS 黑色极简风桌面分享",
       "created": "2024-11-15 22:45",
@@ -22,39 +50,11 @@
       "avatar": "https://dujun.io/favicon.ico"
     },
     {
-      "title": "华为云内存优化型（AMD 2 核 16G）得分 121.73",
-      "created": "2024-11-15 20:50",
-      "link": "https://dujun.io/huaweicloud-ecs-am7-2c16g-scored-one-hundred-twenty-one-point-seven-three.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云内存优化型（2 核 16G）得分 133.76",
-      "created": "2024-11-15 20:50",
-      "link": "https://dujun.io/huaweicloud-ecs-m7-2c16g-scored-one-hundred-thirty-three-point-seven-six.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
       "title": "微语（2024-11-15 11:30）- 荒野孤灯",
       "created": "2024-11-15 19:30",
       "link": "https://www.80srz.com/guests.html/comment-page-1#comment-2232",
       "author": "荒野孤灯",
       "avatar": "https://www.80srz.com/logo.png"
-    },
-    {
-      "title": "华为云超高I/O型（AMD 8 核 64G）得分 120.74",
-      "created": "2024-11-15 06:30",
-      "link": "https://dujun.io/huaweicloud-ecs-ai7-8c64g-scored-one-hundred-twenty-point-seven-four.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "华为云超高I/O型（8 核 32G）得分 129.82",
-      "created": "2024-11-15 06:30",
-      "link": "https://dujun.io/huaweicloud-ecs-i7-8c32g-scored-one-hundred-twenty-nine-point-eight-two.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "奇趣周刊 - 第 76 期",
