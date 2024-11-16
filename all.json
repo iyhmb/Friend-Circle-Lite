@@ -4,34 +4,48 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 85,
-    "last_updated_time": "2024-11-16 14:14:53"
+    "last_updated_time": "2024-11-16 20:19:12"
   },
   "article_data": [
     {
-      "title": "华为云高性能计算型（2 核 4G）得分 143.49",
-      "created": "2024-11-16 20:04",
-      "link": "https://dujun.io/huaweicloud-ecs-h3-2c4g-scored-one-hundred-forty-three-point-four-nine.html",
+      "title": "Oracle Cloud VM.Standard.E5.Flex（AMD 4 核 2G）得分 155.54",
+      "created": "2024-11-17 01:09",
+      "link": "https://dujun.io/oracle-cloud-vm-standard-e5-flex-4c2g-scored-one-hundred-fifty-five-point-five-four.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
     {
-      "title": "华为云 GPU 加速型（推理加速型 8 核 32G）得分 105.51",
-      "created": "2024-11-16 20:04",
-      "link": "https://dujun.io/huaweicloud-ecs-pi2-8c32g-scored-one-hundred-five-point-five-one.html",
+      "title": "Oracle Cloud VM.Standard.E3.Flex（AMD 4 核 2G）得分 124.77",
+      "created": "2024-11-17 01:08",
+      "link": "https://dujun.io/oracle-cloud-vm-standard-e3-flex-4c2g-scored-one-hundred-twenty-four-point-seven-seven.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
     {
-      "title": "华为云 GPU 加速型（计算加速型 8 核 64G）得分 102.70",
-      "created": "2024-11-16 20:03",
-      "link": "https://dujun.io/huaweicloud-ecs-p2s-8c64g-scored-one-hundred-two-point-seven-zero.html",
+      "title": "Oracle Cloud VM.Standard.E2.2（AMD 4 核 16G）得分 77.69",
+      "created": "2024-11-17 01:07",
+      "link": "https://dujun.io/oracle-cloud-vm-standard-e2-2-flex-4c16g-scored-seventy-seven-point-six-nine.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
     {
-      "title": "华为云 GPU 加速型（图形加速型 8 核 32G）得分 104.83",
-      "created": "2024-11-16 20:03",
-      "link": "https://dujun.io/huaweicloud-ecs-g6v-8c32g-scored-one-hundred-four-point-eight-three.html",
+      "title": "Oracle Cloud VM.Standard3.Flex（4 核 2G）得分 126.06",
+      "created": "2024-11-17 00:48",
+      "link": "https://dujun.io/oracle-cloud-vm-standard3-flex-4c2g-scored-one-hundred-twenty-six-point-zero-six.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
+    {
+      "title": "JavaScript 英文全角转半角",
+      "created": "2024-11-17 00:02",
+      "link": "https://xiamp.net/archives/jaxvascxrip-english-full-angle-to-half-angle.html",
+      "author": "虾米皮皮乐",
+      "avatar": "https://xiamp.net/usr/themes/XMWind/assets/images/favicon.ico"
+    },
+    {
+      "title": "Oracle Cloud VM.Standard2.2（4 核 30G）得分 71.07",
+      "created": "2024-11-17 00:00",
+      "link": "https://dujun.io/oracle-cloud-vm-standard2-2-4c30g-scored-seventy-one-point-zero-seven.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
@@ -41,13 +55,6 @@
       "link": "https://veryjack.com/technique/ios_black_home/",
       "author": "Jack’s Space",
       "avatar": "https://pix.veryjack.com/i/2023/04/04/fsxnkv.webp"
-    },
-    {
-      "title": "华为云超大内存型（48 核 960G）得分 133.07",
-      "created": "2024-11-15 20:50",
-      "link": "https://dujun.io/huaweicloud-ecs-e7-48c960g-scored-one-hundred-thirty-three-point-zero-seven.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
     },
     {
       "title": "微语（2024-11-15 11:30）- 荒野孤灯",
@@ -396,13 +403,6 @@
       "title": "Lvtao 简约模板",
       "created": "2024-10-14 06:40",
       "link": "https://xiamp.net/archives/lvtao-minimalist-template.html",
-      "author": "虾米皮皮乐",
-      "avatar": "https://xiamp.net/usr/themes/XMWind/assets/images/favicon.ico"
-    },
-    {
-      "title": "Typecho获取当前页面网址链接",
-      "created": "2024-10-14 02:17",
-      "link": "https://xiamp.net/archives/typecho-retrieves-the-current-page-url-link.html",
       "author": "虾米皮皮乐",
       "avatar": "https://xiamp.net/usr/themes/XMWind/assets/images/favicon.ico"
     },
