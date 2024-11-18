@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 85,
-    "last_updated_time": "2024-11-18 20:22:12"
+    "last_updated_time": "2024-11-19 02:15:35"
   },
   "article_data": [
+    {
+      "title": "新增亲子日记封面保护",
+      "created": "2024-11-19 07:25",
+      "link": "https://dujun.io/new-protective-cover-for-the-baby-diary.html",
+      "author": "杜郎俊赏",
+      "avatar": "https://dujun.io/favicon.ico"
+    },
     {
       "title": "Redis 如何设置管理员密码",
       "created": "2024-11-17 22:35",
@@ -46,13 +53,6 @@
       "title": "Oracle Cloud VM.Standard.E2.2（AMD 4 核 16G）得分 77.69",
       "created": "2024-11-17 01:07",
       "link": "https://dujun.io/oracle-cloud-vm-standard-e2-2-flex-4c16g-scored-seventy-seven-point-six-nine.html",
-      "author": "杜郎俊赏",
-      "avatar": "https://dujun.io/favicon.ico"
-    },
-    {
-      "title": "Oracle Cloud VM.Standard3.Flex（4 核 2G）得分 126.06",
-      "created": "2024-11-17 00:48",
-      "link": "https://dujun.io/oracle-cloud-vm-standard3-flex-4c2g-scored-one-hundred-twenty-six-point-zero-six.html",
       "author": "杜郎俊赏",
       "avatar": "https://dujun.io/favicon.ico"
     },
