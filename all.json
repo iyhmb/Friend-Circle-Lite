@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 85,
-    "last_updated_time": "2024-11-27 20:22:05"
+    "last_updated_time": "2024-11-28 02:15:59"
   },
   "article_data": [
+    {
+      "title": "Final 最后一个主题",
+      "created": "2024-11-28 06:34",
+      "link": "https://xiamp.net/archives/final-theme.html",
+      "author": "虾米皮皮乐",
+      "avatar": "https://xiamp.net/usr/themes/XMWind/assets/images/favicon.ico"
+    },
     {
       "title": "入手索尼A7C2",
       "created": "2024-11-26 12:49",
@@ -349,13 +356,6 @@
       "link": "https://www.mmbkz.cn/3a04b554.html",
       "author": "喵喵博客志",
       "avatar": "https://imgos.cn/2024/08/01/66aac7e5774ad.png"
-    },
-    {
-      "title": "两行代码给你的网站增加翻译功能",
-      "created": "2024-10-29 05:33",
-      "link": "https://xiamp.net/archives/two-lines-of-code-to-add-translation-functionality-to-your-website.html",
-      "author": "虾米皮皮乐",
-      "avatar": "https://xiamp.net/usr/themes/XMWind/assets/images/favicon.ico"
     },
     {
       "title": "给电脑换了新主板，一次战未来的升级",
