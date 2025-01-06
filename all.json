@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 2,
     "article_num": 92,
-    "last_updated_time": "2025-01-06 20:20:04"
+    "last_updated_time": "2025-01-07 02:14:28"
   },
   "article_data": [
+    {
+      "title": "我的群晖 NAS 里装了啥",
+      "created": "2025-01-07 00:32",
+      "link": "https://veryjack.com/life/app_in_nas/",
+      "author": "Jack’s Space",
+      "avatar": "https://pix.veryjack.com/i/2023/04/04/fsxnkv.webp"
+    },
     {
       "title": "我的2024：赶进度",
       "created": "2025-01-06 03:08",
@@ -384,13 +391,6 @@
       "link": "https://xyzbz.cn/archives/1247/",
       "author": "网友小宋",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "title": "苹果快捷指令一键同步更新 Memos 和 X",
-      "created": "2024-12-02 22:41",
-      "link": "https://veryjack.com/technique/shortcut_for_x_and_memos/",
-      "author": "Jack’s Space",
-      "avatar": "https://pix.veryjack.com/i/2023/04/04/fsxnkv.webp"
     },
     {
       "title": "参观 “古田会议遗址” 后记",
